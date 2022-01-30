@@ -8,7 +8,7 @@
 - 
 ### Connect: 
 
-[instagram]: (https://www.instagram.com/elenacherpakova/?hl=en)
+[Instagram- instagram]: (https://www.instagram.com/elenacherpakova/?hl=en)
 [linkedin]: (www.linkedin.com/in/elena-cherpakova)
 [email]: (elena.cherpakova@gmail.com)
 
