@@ -6,6 +6,9 @@
 - 🌱 I'm currently learning everything relates to Tech Stack
 - 👯 I’m looking to collaborate with other content creators 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+
 ### Languages and Tools:
 
 
