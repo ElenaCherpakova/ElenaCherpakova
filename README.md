@@ -20,4 +20,3 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='37'>](https://www.instagram.com/www.linkedin.com/in/elena-cherpakova/)  
 
 
-Resume: [src='https://resume.creddle.io/resume/5l6h96eay6x']
