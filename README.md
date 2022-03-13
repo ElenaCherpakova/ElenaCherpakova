@@ -1,4 +1,6 @@
- ##                                                            Hi there, I'm Elena  👋
+ ##      <p align="center">
+       Hi there, I'm Elena  👋
+</p>                                                 
 
 - ➿ Full Stack Web Developer with 5+ years of experience as a Talent Acquisition Specialist in the marketing/sales and telecommunication sector with exceptional communication and problem-solving skills
 - 🔭 Passion for new technology and innovativeness 
