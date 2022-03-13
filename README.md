@@ -1,9 +1,9 @@
-### Hi there, I'm Elena 👋
+### Hi there, I'm Elena  👋
 
-- ➿ I'm currently looking for a Junior Web Developer role 
-- 🔭 Working on the final project at Lighthouse Lab. Stay tuned...
+- ➿ Full Stack Web Developer with 5+ years of experience as a Talent Acquisition Specialist in the marketing/sales and telecommunication sector with exceptional communication and problem-solving skills. 
+🔭  Passion for new technology and innovativeness 
 - 🌱 Learning everything relates to Tech Stack
-- 👯 I’m looking to collaborate with other content creators 
+- 👯 I’m looking to collaborate with other content creators OR join a company to develop and deliver cutting-edge web software to achieve business goals.
 
 ### Skills and Experience:
 
