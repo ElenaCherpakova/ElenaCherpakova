@@ -1,6 +1,4 @@
- ##      <p align="center">
-       Hi there, I'm Elena  👋
-</p>                                                 
+  <h1 align="center"> Hi there, I'm Elena  👋 </h1>                                                 
 
 - ➿ Full Stack Web Developer with 5+ years of experience as a Talent Acquisition Specialist in the marketing/sales and telecommunication sector with exceptional communication and problem-solving skills
 - 🔭 Passion for new technology and innovativeness 
@@ -18,8 +16,6 @@
 ### How to Connect Me:
 
 * elena.cherpakova@gmail.com
-
-OR 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='37'>](https://github.com/https://github.com/ElenaCherpakova)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='37'>](https://www.linkedin.com/in/https://www.instagram.com/elenacherpakova/?hl=en/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='37'>](https://www.facebook.com/https://www.facebook.com/elena.cherpakova.9)
