@@ -13,7 +13,7 @@
 <img src='https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white'>
 <img src='https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white'>
 
-### Connect Me:
+### How to Connect Me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='37'>](https://github.com/https://github.com/ElenaCherpakova)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='37'>](https://www.linkedin.com/in/https://www.instagram.com/elenacherpakova/?hl=en/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='37'>](https://www.facebook.com/https://www.facebook.com/elena.cherpakova.9)
