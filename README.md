@@ -1,11 +1,10 @@
   <h1 align="center"> Hi there, I'm Elena  👋 </h1>                                                 
 
-- ➿ Full Stack Web Developer with 5+ years of experience as a Talent Acquisition Specialist in the marketing/sales and telecommunication sector with exceptional communication and problem-solving skills
+- ➿ **Full Stack Web Developer** with 5+ years of experience as a Talent Acquisition Specialist in the marketing/sales and telecommunication sector with exceptional communication and problem-solving skills
 - 🔭 Passion for new technology and innovativeness 
 - 🌱 Learning everything relates to Tech Stack
 - 👯 I’m looking to collaborate with other content creators OR join a company to develop and deliver cutting-edge web software to achieve business goals.
 
-<br>
 
 <h3 align="center">Skills and Experience:</h3>
 <div align="center">
