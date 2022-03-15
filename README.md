@@ -17,7 +17,7 @@
 
 elena.cherpakova@gmail.com
 
-<a href="https://github.com/https://github.com/ElenaCherpakova" target="_blank">
+<a href="https://github.com/ElenaCherpakova" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
 <a href="https://www.linkedin.com/in/elena-cherpakova/" target="_blank">
