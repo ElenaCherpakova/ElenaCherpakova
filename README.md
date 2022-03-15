@@ -1,6 +1,7 @@
   <h1 align="center"> Hi there👋, I'm Elena </h1>                                                 
 <h2 align="center">I'm a Software Developer 🤓</h2>
 
+### About Me
 - 🔭 Passion for new technology and innovativeness 
 - 🌱 Learning everything relates to Tech Stack
 - 👯 I’m looking to collaborate with other content creators OR join a company to develop and deliver cutting-edge web software to achieve business goals.
