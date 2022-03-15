@@ -17,8 +17,14 @@
 
 elena.cherpakova@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='37'>](https://github.com/https://github.com/ElenaCherpakova)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='37'>](https://www.linkedin.com/in/https://www.instagram.com/elenacherpakova/?hl=en/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='37'>](https://www.facebook.com/https://www.facebook.com/elena.cherpakova.9)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='37'>](https://www.instagram.com/www.linkedin.com/in/elena-cherpakova/)  
+<a href="https://github.com/https://github.com/ElenaCherpakova" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
+<a href="https://www.linkedin.com/in/elena-cherpakova/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+</a>  
+ 
+
+
 
 
