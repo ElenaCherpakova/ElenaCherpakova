@@ -15,10 +15,11 @@
 </div>
 
 
-
-
 <div align="center">
 ### How to Connect Me:
+ </div>
+<div align="center">
+
 elena.cherpakova@gmail.com
 
 <a href="https://github.com/ElenaCherpakova" target="_blank">
