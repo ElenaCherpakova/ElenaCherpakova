@@ -5,6 +5,7 @@
 - 🌱 Learning everything relates to Tech Stack
 - 👯 I’m looking to collaborate with other content creators OR join a company to develop and deliver cutting-edge web software to achieve business goals.
 
+<br>
 
 <h3 align="center">Skills and Experience:</h3>
 <div align="center">
@@ -15,6 +16,7 @@
 <img src='https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white'>
 </div>
 
+<br>
 
 <h3 align="center">How to Connect Me:</h3>
 
