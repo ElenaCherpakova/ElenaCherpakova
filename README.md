@@ -13,6 +13,8 @@
 <img src='https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white'>
 <img src='https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white'>
 </div>
+
+<div align="center">
 ### How to Connect Me:
 
 elena.cherpakova@gmail.com
@@ -24,7 +26,7 @@ elena.cherpakova@gmail.com
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
  
-
+</div>
 
 
 
