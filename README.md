@@ -1,4 +1,4 @@
-  <h1 align="center"> Hi there👋, I'm Elena </h1>                                                 
+<h1 align="center"> Hi there👋, I'm Elena </h1>                                                 
 <h2 align="center">I'm a Software Developer 🤓</h2>
 
 ### About Me
