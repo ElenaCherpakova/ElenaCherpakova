@@ -14,8 +14,10 @@
 <img src='https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white'>
 </div>
 
-<div align="center">
+
 ### How to Connect Me:
+
+<div align="center">
 
 elena.cherpakova@gmail.com
 
