@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Elena</h1>                                                 
 <h2 align="center">I'm a Software Developer</h2>
 
-<p align="center">
-<img src = 'https://readme-typing-svg.herokuapp.com?color=71E1FF&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Learnaholic)](https://git.io/typing-svg'></img>
-</p>
+<div align="center">
+<img  src = 'https://readme-typing-svg.herokuapp.com?color=71E1FF&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Learnaholic)](https://git.io/typing-svg'></img>
+</div>
 
 ### About Me
 - 🔭 Passion for new technology and innovativeness 
