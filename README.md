@@ -21,7 +21,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&&show_icons=true&theme=dark)](https://github.com/ElenaCherpakova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&&layout=compact&theme=dark)](https://github.com/ElenaCherpakova/github-readme-stats)
 
 
 
