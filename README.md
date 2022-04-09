@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Elena</h1>     
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+|+Backend;Fullstack+Developer;Learnaholic;" alt="Frontend, Backend Developer, Fullstack Engineer" title="Frontend Programmer, Backend Developer, Fullstack Engineer!">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+|+Backend;Fullstack+Developer;Learnaholic;" alt="Frontend, Backend Developer, Fullstack" title="Frontend, Backend, Fullstack">
 </p>
 
 ### About Me
