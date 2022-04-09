@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Software Developer</h2>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=71E1FF&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Learnaholic)](https://git.io/typing-svg)
+<img [![Typing SVG](src = 'https://readme-typing-svg.herokuapp.com?color=71E1FF&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Learnaholic)](https://git.io/typing-svg')</img>
 </p>
 
 ### About Me
