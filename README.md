@@ -1,10 +1,7 @@
 <h1 align="center">Hi there👋, I'm Elena</h1>     
-<div align="center">
-<h2>I'm a </h2>
- <img  src = 'https://readme-typing-svg.herokuapp.com?color=71E1FF&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Learnaholic'></img>
-</div>
 
-
+<h2 align="center">I'm a Software Developer </h2>
+ 
 
 ### About Me
 - 🔭 Passion for new technology and innovativeness 
@@ -39,5 +36,7 @@ elena.cherpakova@gmail.com
  
 </div>
 
-
+<div> 
+ <img src='https://readme-typing-svg.herokuapp.com?color=71E1FF&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Learnaholic'></img>
+</div>
 
