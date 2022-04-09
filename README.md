@@ -39,5 +39,5 @@ elena.cherpakova@gmail.com
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&layout=compact&langs_count=10&theme=radical&count_private=true&show_icons=true)](https://github.com/ElenaCherpakova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&layout=compact&langs_count=10&theme=onedark&count_private=true&show_icons=true)](https://github.com/ElenaCherpakova/github-readme-stats)
 
