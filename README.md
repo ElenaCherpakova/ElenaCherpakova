@@ -2,8 +2,9 @@
 
 <h2 align="center">I'm a Software Developer </h2>
  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Polyglot;...and+more!" alt="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!" title="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!">
+<p align="center">I am
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Learnaholic;
+            !" alt="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!" title="Frontend Programmer, Backend Developer, Fullstack Engineer">
 </p>
 
 ### About Me
@@ -39,7 +40,4 @@ elena.cherpakova@gmail.com
  
 </div>
 
-<div> 
- <img src='https://readme-typing-svg.herokuapp.com?color=71E1FF&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Learnaholic'></img>
-</div>
 
