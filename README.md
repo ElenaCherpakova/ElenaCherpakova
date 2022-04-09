@@ -35,9 +35,10 @@ elena.cherpakova@gmail.com
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&layout=compact&langs_count=10&theme=dark&count_private=true&show_icons=true)](https://github.com/ElenaCherpakova/github-readme-stats)
 </div>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&layout=compact&langs_count=10&theme=dark&count_private=true&show_icons=true)](https://github.com/ElenaCherpakova/github-readme-stats)
- </div>
+
+
+
 
