@@ -38,3 +38,5 @@ elena.cherpakova@gmail.com
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova)](https://github.com/ElenaCherpakova/github-readme-stats)
+
