@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Elena</h1>     
  
-<h2 align="center">I am
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Learnaholic;!" alt="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!" title="Frontend Programmer, Backend Developer, Fullstack Engineer!">
 </h2>
 
