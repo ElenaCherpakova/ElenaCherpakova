@@ -23,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&layout=compact&langs_count=10&theme=dark&count_private=true&show_icons=true)](https://github.com/ElenaCherpakova/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElenaCherpakova)](https://github.com/ElenaCherpakova/github-readme-stats)
+[![ElenaCherpakova's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElenaCherpakova)](https://github.com/ElenaCherpakova/github-readme-stats)
 
 <br>
 
