@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Elena</h1>     
  
-<h2 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Learnaholic;" alt="Frontend Programmer, Backend Developer, Fullstack Engineer" title="Frontend Programmer, Backend Developer, Fullstack Engineer!">
-</h2>
+</h1>
 
 ### About Me
 - 🔭 Passion for new technology and innovativeness 
