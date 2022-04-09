@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a Software Developer </h2>
  
-<p align="center">I am
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Learnaholic;
             !" alt="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!" title="Frontend Programmer, Backend Developer, Fullstack Engineer">
 </p>
