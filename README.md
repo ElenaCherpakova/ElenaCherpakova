@@ -1,10 +1,8 @@
 <h1 align="center">Hi there👋, I'm Elena</h1>     
-
-<h2 align="center">I'm a Software Developer </h2>
  
-<p align="center">I am
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Polyglot;...and+more!" alt="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!" title="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!">
-</p>
+<h2 align="center">I am
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Learnaholic;!" alt="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!" title="Frontend Programmer, Backend Developer, Fullstack Engineer!">
+</h2>
 
 ### About Me
 - 🔭 Passion for new technology and innovativeness 
