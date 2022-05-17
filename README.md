@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+|+Backend;Fullstack+Developer;Learnaholic;" alt="Frontend, Backend Developer, Fullstack" title="Frontend, Backend, Fullstack">
 </p>
 
-### About Me
+
 - 🔭 Passion for new technology and innovativeness 
 - 🌱 Learning everything relates to Tech Stack
 - 👯 I’m looking to collaborate with other content creators OR join a company to develop and deliver cutting-edge web software to achieve business goals.
