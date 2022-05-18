@@ -23,8 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&&layout=compact&theme=dark)](https://github.com/ElenaCherpakova/github-readme-stats)
 
-
-
 <br>
 
 <h3 align="center">How to Connect Me:</h3>
