@@ -19,6 +19,7 @@
 <img src='https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white'>
 <img src='https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white'>
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white'>
+<img src='https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white'>
 
 </div>
 
