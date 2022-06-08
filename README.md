@@ -18,6 +18,8 @@
 <img src='https://img.shields.io/badge/-NodeJs-339933?logo=nodedotjs&logoColor=white'>
 <img src='https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white'>
 <img src='https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white'>
+<img src='https://img.shields.io/badge/-MongoDB-339933?logo=mongodotjs&logoColor=white'>
+
 </div>
 
 <br>
