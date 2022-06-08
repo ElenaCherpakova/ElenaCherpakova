@@ -6,6 +6,7 @@
 
 - 📍 Based in Toronto, Canada 🇨🇦
 - 🔭 Passion for new technology and innovativeness 
+- 🧑‍🎓 Graduate of Lighthouse Labs Web Development Bootcamp
 - 🌱 Currently learning AWS, React and Typescript
 - 👯 I’m looking to collaborate with other content creators OR join a company to develop and deliver cutting-edge web software to achieve business goals.
 
