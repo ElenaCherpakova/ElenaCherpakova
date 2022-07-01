@@ -7,7 +7,9 @@
 - 📍 Based in Toronto, Canada 🇨🇦
 - 🔭 Passion for new technology and innovativeness 
 - 🧑‍🎓 Graduate of <a href="https://www.lighthouselabs.ca/">Lighthouse Labs Web Development Bootcamp</a>
-- 🌱 Currently learning AWS, React and Typescript
+- 🌱 Currently learning <img src='https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white'>
+, <img src='https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB'>
+ and <img src='https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white'>
 - 👯 I’m looking to collaborate with other content creators OR join a company to develop and deliver cutting-edge web software to achieve business goals.
 
 
