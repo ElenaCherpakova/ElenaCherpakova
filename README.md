@@ -1,3 +1,7 @@
+
+![1](https://user-images.githubusercontent.com/87485026/177422722-c2f59ccc-a28b-41f5-918b-32d83e09dc87.jpg)
+
+
 <h1 align="center">Hi there👋, I'm Elena</h1>     
  
 <p align="center">
