@@ -1,8 +1,4 @@
-
-
-https://user-images.githubusercontent.com/87485026/177423348-bbdbb401-2b64-4111-8fef-7d198f5d21c2.mp4
-
-
+![Modern Desktop Writing Workshop Google Classroom Header ](https://user-images.githubusercontent.com/87485026/177423659-3eb4703d-f8c3-4452-98fd-1b8202881452.jpg)
 
 
 <h1 align="center">Hi there👋, I'm Elena</h1>     
