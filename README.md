@@ -1,5 +1,8 @@
 
-![1](https://user-images.githubusercontent.com/87485026/177422722-c2f59ccc-a28b-41f5-918b-32d83e09dc87.jpg)
+
+https://user-images.githubusercontent.com/87485026/177423348-bbdbb401-2b64-4111-8fef-7d198f5d21c2.mp4
+
+
 
 
 <h1 align="center">Hi there👋, I'm Elena</h1>     
