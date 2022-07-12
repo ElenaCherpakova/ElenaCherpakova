@@ -1,5 +1,5 @@
 
-![Modern Desktop Writing Workshop Google Classroom Header  (1)](https://user-images.githubusercontent.com/87485026/177610104-710f6c31-3e0b-4415-92b6-76f9d853fab9.jpg)
+![Modern Desktop Writing Workshop Google Classroom Header ](https://user-images.githubusercontent.com/87485026/178397032-15984216-b771-4411-a127-f6ac70e0f6fd.jpg)
 
  
 <p align="center">
