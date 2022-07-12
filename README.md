@@ -1,6 +1,6 @@
-<p align="center">
+
 ![Modern Desktop Writing Workshop Google Classroom Header ](https://user-images.githubusercontent.com/87485026/178397032-15984216-b771-4411-a127-f6ac70e0f6fd.jpg)
-</p>
+
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+|+Backend;Fullstack+Developer;Learnaholic;" alt="Frontend, Backend Developer, Fullstack" title="Frontend, Backend, Fullstack">
