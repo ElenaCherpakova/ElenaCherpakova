@@ -46,9 +46,8 @@
 <div align="center">
 
  
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="mailto:name@rapidtables.com">
- </a>
+<a href="mailto:name@rapidtables.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ElenaCherpakova" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
