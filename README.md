@@ -46,7 +46,7 @@
 <div align="center">
 
  
-<a href ="mailto:elena.cherpakova@gmail.com" target="_blank">
+<a href="mailto:elena.cherpakova@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
 <a href="https://github.com/ElenaCherpakova" target="_blank">
