@@ -1,7 +1,8 @@
 
 ![Modern Desktop Writing Workshop Google Classroom Header ](https://user-images.githubusercontent.com/87485026/178397032-15984216-b771-4411-a127-f6ac70e0f6fd.jpg)
 
- 
+ ##Hi there! 👋 I am Elena.
+ <br>
 
 - 📍 Based in Toronto, Canada 🇨🇦
 - 🧑‍🎓 Graduate of <a href="https://www.lighthouselabs.ca/">Lighthouse Labs Web Development Bootcamp</a>
