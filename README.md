@@ -16,7 +16,7 @@
  
  
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<img src='https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'> <img src='https://camo.githubusercontent.com/88bc7ef2e79a698a55b02b2bc222ea72279f587373920146759027cb72618189/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465267374796c653d666c6174'> 
+<img src='https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'>
 
