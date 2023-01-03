@@ -24,7 +24,7 @@
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
 <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
 <img src='https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'>
-<a href="https://glitch.com/@elena.cherpakova" target="_blank"/><img src='https://img.shields.io/badge/Glitch-2800ff?&logo=glitch&logoColor=white'>
+<a href="https://glitch.com/@elena.cherpakova" target="_blank"/><img src='https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white'>
 
 </div>
 
