@@ -16,19 +16,21 @@
  
  
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+ ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img src='https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-<img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'>
-
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 <img src='https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'>
 
-<img src='https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <img src='https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white'>
 <img src='https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white'>
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
 <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
-<img src='https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'>
-<a href="https://glitch.com/@elena.cherpakova" target="_blank"/><img src='https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white'>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<a href="https://glitch.com/@elena.cherpakova" target="_blank"/><img src='https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white'>
 
 </div>
 
