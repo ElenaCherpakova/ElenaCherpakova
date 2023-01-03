@@ -20,7 +20,7 @@
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'>
 
-<img src='https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'> <img src='https://camo.githubusercontent.com/3cbc45bbfdb10192161a85a5e0bdc28a7e63161317ece63f93ad3449f1702d79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3030334235373f6c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465267374796c653d666c6174'> <img src='https://camo.githubusercontent.com/0480df7a6d3be4fa98071c6088410798e79ea5e634355dfb1d5bd3b336e3757d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465267374796c653d666c6174'> <img src='https://camo.githubusercontent.com/271893d0ffe1f8ea477f09bdc051013e49dd1f470d8a46f71b18fd432e918b49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f6c6f676f3d72756279266c6f676f436f6c6f723d7768697465267374796c653d666c6174'>
+<img src='https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'>
 
 <img src='https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'>
 <img src='https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white'>
