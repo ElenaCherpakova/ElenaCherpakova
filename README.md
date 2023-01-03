@@ -12,7 +12,10 @@
 
 <h3 align="center">Skills and Experience:</h3>
 <div align="center">
-<img src='https://camo.githubusercontent.com/7c61cf24e35e3840a10b91b8510a5b02eb188d5e0f255db135ca6dca9d7e26df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666c6174'> <img src='https://camo.githubusercontent.com/ce6baf5ffef52faec6917ad2a2fa7e3c11252b891a16b419019b30b7ebfeefe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465267374796c653d666c6174'> <img  src='https://camo.githubusercontent.com/95c53512a0dd670c67bd414eab6a44bd63531907d1c1ac50bc9214be44896e4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f6c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465267374796c653d666c6174'>
+
+ 
+ 
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <img src='https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'> <img src='https://camo.githubusercontent.com/88bc7ef2e79a698a55b02b2bc222ea72279f587373920146759027cb72618189/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465267374796c653d666c6174'> 
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'>
