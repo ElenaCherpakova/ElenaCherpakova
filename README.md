@@ -7,7 +7,7 @@
 - 🌱 Currently learning Algorithms 
 , <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>,
- [AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - 👯 Looking to apply and expand my knowledge and skills in web development. Excited be a part of an aspiring team that fosters innovation, and creativity in delivering cutting-edge web software to achieve business goals and improve the daily lives of customers.
 
 
