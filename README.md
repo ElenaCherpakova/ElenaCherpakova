@@ -1,8 +1,7 @@
 
 ![Modern Desktop Writing Workshop Google Classroom Header ](https://user-images.githubusercontent.com/87485026/178397032-15984216-b771-4411-a127-f6ac70e0f6fd.jpg)
-
-- 🧑‍🎓 Graduate of <a href="https://www.lighthouselabs.ca/">Lighthouse Labs Web Development Bootcamp</a>
-- 🔭 Passion for new technology and innovativeness 
+- Full Stack Web Developer with a background in finance and 5+ years of experience in recruitment.
+- As a dedicated lifelong learner with a passion for learning and gaining new technical skills, demonstrated through the completion of a Fullstack Web Development Diploma at 🧑‍🎓 Lighthouse Labs<a href="https://www.lighthouselabs.ca/">
 - 🌱 Currently learning Algorithms 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
