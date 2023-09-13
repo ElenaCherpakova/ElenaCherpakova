@@ -1,5 +1,6 @@
 
-![Modern Desktop Writing Workshop Google Classroom Header ](https://user-images.githubusercontent.com/87485026/178397032-15984216-b771-4411-a127-f6ac70e0f6fd.jpg)
+![Modern Desktop Writing Workshop Google Classroom Header](https://github.com/ElenaCherpakova/ElenaCherpakova/assets/87485026/26525158-4088-4e7f-93fe-8dbd4ea8e123)
+
 - Full Stack Web Developer with a background in finance and 5+ years of experience in recruitment.
 - As a dedicated lifelong learner with a passion for learning and gaining new technical skills, demonstrated through the completion of a Fullstack Web Development Diploma at <a href="https://www.lighthouselabs.ca/">🧑‍🎓 Lighthouse Labs</a>
 - 🌱 Currently learning Algorithms 
