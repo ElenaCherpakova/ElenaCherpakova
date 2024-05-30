@@ -3,7 +3,7 @@
 
 
 - Full Stack Web Developer with a background in finance and 5+ years of experience in recruitment.
-- As a dedicated lifelong learner with a passion for learning and gaining new technical skills, demonstrated through the completion of a Fullstack Web Development Diploma at <a href="https://www.lighthouselabs.ca/">🧑‍🎓 Lighthouse Labs</a>
+- As a dedicated lifelong learner with a passion for learning and gaining new technical skills, demonstrated through the completion of a Fullstack Web Development Diploma at <a href="https://www.lighthouselabs.ca/">🧑‍🎓 Lighthouse Labs</a> and backend skills obtained from <a href="https://codethedream.org">Code the Dream</a>.
 - 🌱 Currently learning Algorithms 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
