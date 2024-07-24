@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&&layout=compact&theme=dark))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&&layout=compact&theme=dark)](https://github.com/ElenaCherpakova/github-readme-stats)
 
 </div>
