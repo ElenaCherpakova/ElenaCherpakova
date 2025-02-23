@@ -4,8 +4,8 @@
 
 - Full Stack Web Developer with a background in finance and 5+ years of experience in recruitment.
 - As a dedicated lifelong learner with a passion for acquiring new technical skills, demonstrated through completing a Fullstack Web Development Diploma at <a href="https://www.lighthouselabs.ca/" target="_blank">Lighthouse Labs</a> and gaining backend skills from <a href="https://codethedream.org" target="_blank">Code the Dream</a>.
-- 🌱 Currently learning Algorithms 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- 🌱 Currently learning Algorithms & Data Structure, Advanced React, ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Next on the list of goals: ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 - 👯 Looking to apply and expand my knowledge and skills in web development. Excited to be part of an aspiring team that fosters innovation and creativity in delivering cutting-edge web software to achieve business goals and improve customers' daily lives.
 
 
