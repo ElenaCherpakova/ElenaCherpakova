@@ -49,8 +49,11 @@
 
 <br>
 
-<div align="center">
-
+<div align="center" display="flex">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&theme=tokyonight)&nbsp;
+[![Elena's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ElenaCherpakova&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ElenaCherpakova/github-readme-stats#gh-dark-mode-only)
+ 
 </div>
 
 <h3 align="center">Contact Me:</h3>
