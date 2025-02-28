@@ -51,8 +51,6 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCherpakova&&layout=compact&theme=dark)
-
 </div>
 
 <h3 align="center">Contact Me:</h3>
